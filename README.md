@@ -18,5 +18,7 @@ The format of the text file is:
 <image-filename>,<caption>\n
 ```
 
+**Teammates**
 
+1.[Adya Bhat](https://github.com/adyabhat)
 
