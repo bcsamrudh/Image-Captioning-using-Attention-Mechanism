@@ -20,5 +20,5 @@ The format of the text file is:
 
 **Teammates**
 
-1.[Adya Bhat](https://github.com/adyabhat)
-
+1. [Adya Bhat](https://github.com/adyabhat)
+2. Aditya G H
