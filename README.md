@@ -17,6 +17,9 @@ The format of the text file is:
 ```
 <image-filename>,<caption>\n
 ```
+**Results**
+
+![Result](https://github.com/user-attachments/assets/062a4aac-5c6b-40ab-9539-838e98a3769a)
 
 **Teamates**
 
