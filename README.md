@@ -1,6 +1,11 @@
 # Image-Captioning-using-Attention-Mechanism
 **CourseWork Project, Mathematics for Machine Learning**
 
+**Teamates**
+
+1. [Adya Bhat](https://github.com/adyabhat)
+2. Aditya G H
+
 It uses a encoder-decoder architecture to caption Images. I used a pretrained ResNet model as the encoder to extract image features, combined with an LSTM decoder implementing the Bahdanau attention mechanism to generate captions using the extracted features.
 
 **Model Architecture**
@@ -20,8 +25,3 @@ The format of the text file is:
 **Results**
 
 ![Result](https://github.com/user-attachments/assets/062a4aac-5c6b-40ab-9539-838e98a3769a)
-
-**Teamates**
-
-1. [Adya Bhat](https://github.com/adyabhat)
-2. Aditya G H
