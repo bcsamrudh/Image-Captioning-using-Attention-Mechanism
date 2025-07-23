@@ -3,8 +3,7 @@
 
 **Teamates**
 
-1. [Adya Bhat](https://github.com/adyabhat)
-2. Aditya G H
+1. Aditya G H
 
 It uses a encoder-decoder architecture to caption Images. I used a pretrained ResNet model as the encoder to extract image features, combined with an LSTM to generate captions using the extracted features.
 
